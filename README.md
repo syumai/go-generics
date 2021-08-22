@@ -1,3 +1,5 @@
+# This is an experimental project!
+
 # go-generics
 
 * go-generics is an experimental implementation of Go's Generics packages based on the Proposal document.
